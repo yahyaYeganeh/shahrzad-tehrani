@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace DEINE-DOMAIN.de with the final domain before uploading. Three language pages; sections are anchors. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://yahyayeganeh.github.io/shahrzad-tehrani/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://yahyayeganeh.github.io/shahrzad-tehrani/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yahyayeganeh.github.io/shahrzad-tehrani/en/"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://yahyayeganeh.github.io/shahrzad-tehrani/fa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://yahyayeganeh.github.io/shahrzad-tehrani/"/>
+    <image:image><image:loc>https://yahyayeganeh.github.io/shahrzad-tehrani/brand/og-image.jpg</image:loc><image:title>Shahrzad Tehrani – Malerin und Grafikdesignerin in Regensburg</image:title></image:image>
+    <image:image><image:loc>https://yahyayeganeh.github.io/shahrzad-tehrani/img/aquarell-rosen.webp</image:loc><image:title>Rosenhut, Aquarell, 2025</image:title></image:image>
+    <image:image><image:loc>https://yahyayeganeh.github.io/shahrzad-tehrani/img/acryl-beetles.webp</image:loc><image:title>Käfer-Parade, Acryl</image:title></image:image>
+    <image:image><image:loc>https://yahyayeganeh.github.io/shahrzad-tehrani/img/acryl-challenger.webp</image:loc><image:title>Challenger im Rauch, Acryl, 2025</image:title></image:image>
+    <image:image><image:loc>https://yahyayeganeh.github.io/shahrzad-tehrani/img/aquarell-schleier.webp</image:loc><image:title>Hinter dem Schleier, Aquarell</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://yahyayeganeh.github.io/shahrzad-tehrani/en/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://yahyayeganeh.github.io/shahrzad-tehrani/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yahyayeganeh.github.io/shahrzad-tehrani/en/"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://yahyayeganeh.github.io/shahrzad-tehrani/fa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://yahyayeganeh.github.io/shahrzad-tehrani/"/>
+  </url>
+  <url>
+    <loc>https://yahyayeganeh.github.io/shahrzad-tehrani/fa/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://yahyayeganeh.github.io/shahrzad-tehrani/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yahyayeganeh.github.io/shahrzad-tehrani/en/"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://yahyayeganeh.github.io/shahrzad-tehrani/fa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://yahyayeganeh.github.io/shahrzad-tehrani/"/>
+  </url>
+</urlset>

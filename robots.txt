@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /datenschutz.html
+
+# Replace DEINE-DOMAIN.de with the final domain before uploading
+Sitemap: https://yahyayeganeh.github.io/shahrzad-tehrani/sitemap.xml
