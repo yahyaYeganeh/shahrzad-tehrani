@@ -3,4 +3,4 @@ Allow: /
 Disallow: /datenschutz.html
 
 # Replace DEINE-DOMAIN.de with the final domain before uploading
-Sitemap: https://yahyayeganeh.github.io/shahrzad-tehrani/sitemap.xml
+Sitemap: https://shahrzad-tehrani.netlify.app/sitemap.xml
